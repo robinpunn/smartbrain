@@ -9,11 +9,11 @@
     "clarifai": "^2.9.1",
     "clarifai-nodejs-grpc": "^8.0.0",
     "http2": "^3.3.7",
+    "particles-bg": "^2.5.5",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-parallax-tilt": "^1.7.40",
     "react-scripts": "4.0.2",
-    "particles-bg": "^2.5.5",
     "serve": "^14.0.1",
     "tachyons": "^4.12.0",
     "web-vitals": "^2.1.4"

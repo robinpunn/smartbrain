@@ -13,10 +13,9 @@
     "react-dom": "^18.1.0",
     "react-parallax-tilt": "^1.7.40",
     "react-scripts": "4.0.2",
-    "react-tsparticles": "^2.0.6",
+    "particles-bg": "^2.5.5",
     "serve": "^14.0.1",
     "tachyons": "^4.12.0",
-    "tsparticles": "^2.0.6",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

@@ -24,7 +24,7 @@ class Register extends React.Component {
     }
 
     onSubmitSignIn = () => {
-        fetch('http://192.168.0.4:80/register', {
+        fetch('http://pi.robinpunn.com/register', {
             method: 'post',
             headers: {'Content-Type': 'application/json'},
             body: JSON.stringify({

@@ -1,6 +1,6 @@
 {
   "name": "smartbrain",
-  "home": "https://robinpunn.github.io/smartbrain",
+  "homepage": "https://robinpunn.github.io/smartbrain",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
